@@ -1,0 +1,175 @@
+id|company|is_unicorn|industries|display_name|turnover|employees|employees_change|turnover_change_percentage
+84921b80-2226-49d6-843b-ca800e946f7a|BOLT TECHNOLOGY OÜ|True|['Transportation', 'Food, Beverage & Tobacco', 'Software & Services']|BOLT|405419541.13|1320.0|-9.0|-6
+33743ed2-f486-4593-a7dc-fa6127b5477a|MILREM AS|False|['Agriculture, Aquaculture & Agritech', 'Forestry & Paper', 'Manufacturing']|MILREM ROBOTICS|18840840.96|308.0|12.0|409
+75225477-cad2-4f3c-8050-82b49c85dbfa|STARSHIP TECHNOLOGIES OÜ|False|['Infrastructure & Logistics', 'Deep tech']|STARSHIP TECHNOLOGIES|6071895.30|171.0|7.0|6
+054c98a5-e09e-466f-9845-d507ed68045a|SALEMOVE OÜ|False|['Fintech', 'Software & Services', 'Telecommunication & Services']|GLIA|4023335.59|125.0|-4.0|21
+3ce4ede2-ac1c-4632-9ebf-44e8f6049c0e|DEFSECINTEL SOLUTIONS OÜ|False|['Hardware & Electronic Equipment', 'Defence', 'Deep tech']|DEFSECINTEL|17484152.87|93.0|10.0|24
+be966f2e-588b-4470-8a4a-73324d8d5341|ONOFFAPP OÜ|False|['Telecommunication & Services']|ONOFF APP OÜ|3906292.68|57.0|3.0|63
+5d032c7c-408d-45a2-a2b6-20e89d6033fa|TURNIT OÜ|False|['Road & Rail', 'Software & Services', 'Transportation']|TURNIT|2989348.99|54.0|-2.0|43
+4659ab48-1f25-49c2-b4a3-fe12ae2fc7aa|COMODULE OÜ|False|['Hardware & Electronic Equipment', 'Software & Services']|COMODULE|2681208.47|53.0|2.0|-32
+8b5de3c5-8e9a-43e1-8a4e-24c243fdefc7|EVOCON OÜ|False|['Engineering', 'Software & Services']|EVOCON OÜ|2295571.68|45.0|5.0|95
+43ec41b9-f07c-4ae0-9ece-51cdb2bbc9e0|AMPLER BIKES OÜ|False|['Transportation', 'Engineering']|AMPLER BIKES|840485.03|44.0|12.0|74
+b682e9ad-47af-47ec-baa4-b641c6beed29|GSCAN OÜ|False|['Deep tech', 'Machinery & Electrical', 'Manufacturing']|GSCAN|632542.45|43.0|0.0|85
+fec77cab-e9b9-4b0d-bd08-df064feda5c3|R8 TECHNOLOGIES OÜ|False|['Proptech', 'Cleantech']|R8 TECHNOLOGIES|960182.95|39.0|-1.0|9
+99197307-0ab6-4203-808d-94acf466f23e|FRACTORY SOLUTIONS OÜ|False|['Engineering', 'Infrastructure & Logistics', 'Manufacturing']|FRACTORY|1930443.42|32.0|-1.0|14
+4e04479b-c1ad-4c90-9eda-4d4e05fafd73|POWERUP FUEL CELLS OÜ|False|['Deep tech', 'Cleantech', 'Energy']|POWERUP FUEL CELLS OÜ|84456.62|30.0|0.0|68
+52efff7a-66c6-4380-92cb-7d5c82104fc3|EAGRONOM OÜ|False|['Agriculture, Aquaculture & Agritech']|EAGRONOM|840217.43|30.0|3.0|49
+76c3c992-a03f-4dbe-8819-72281b503887|FUSEBOX OÜ|False|['Energy', 'Software & Services', 'Cleantech']|FUSEBOX ENERGY|504648.90|30.0|10.0|85
+6e767c2b-1aa9-4ef0-9a8e-5bea23a69cbf|1OT OÜ|False|['Telecommunication & Services', 'Software & Services']|1OT|1554394.29|25.0|2.0|13
+0b90a5bf-02bf-4e34-96d9-6e84264dd367|AUVE TECH OÜ|False|['Infrastructure & Logistics', 'Automotive', 'Transportation']|AUVE|287114.76|24.0|-2.0|-83
+7219b981-ddb6-4470-bfd6-f5745e1f48f4|MESSENTE COMMUNICATIONS OÜ|False|['Telecommunication & Services']|MESSENTE COMMUNICATIONS|8472348.09|24.0|0.0|8
+0e874640-2112-420f-85a2-21fcb4918f85|KRATTWORKS OÜ|False|['Defence', 'Hardware & Electronic Equipment', 'Software & Services']|KRATTWORKS|220816.08|22.0|0.0|146
+984aa9cd-beda-4907-b1a5-55863f2494e5|RANGEFORCE OÜ|False|['Software & Services', 'Telecommunication & Services']|RANGEFORCE|617757.56|22.0|-1.0|-31
+f05eb4cd-a1d7-4ab9-8e52-faf6c16c9f4d|ROOFIT SOLAR ENERGY OÜ|False|['Energy', 'Materials & Chemicals', 'Cleantech']|ROOFIT.SOLAR|991220.37|21.0|-6.0|-23
+01e7fa90-e0d1-4ce4-b098-969333429386|MINDTITAN OÜ|False|['Fintech', 'Energy', 'Telecommunication & Services']|MINDTITAN|383411.79|19.0|0.0|11
+64128d00-6b36-4a57-b8ac-a1bb4830eab3|GLOBALREADER, OÜ|False|['Engineering']|GLOBALREADER|338933.06|19.0|-2.0|16
+e04e73cd-060c-4cfd-83fa-c3faeacd9155|SOLARSTONE OÜ|False|['Software & Services', 'Cleantech', 'Proptech']|SOLARSTONE|273893.37|19.0|0.0|-52
+9b28efd3-90b2-4770-bb95-405df9ee70b5|SENSUS SEPTIMA OÜ|False|['Defence', 'Software & Services']|SENSUSQ|265195.45|18.0|-3.0|3893
+c8cf3dee-70a5-4c31-aa0a-74d22f218d02|DEGRITTER OÜ|False|['Consumer Electronics & Appliances']|DEGRITTER|515672.79|18.0|2.0|-36
+0a2bb96d-84e6-4e37-9b10-a4df79ff0c46|OPTIGON OÜ|False|['Transportation', 'Infrastructure & Logistics', 'Cleantech']|VOK BIKES|551865.87|16.0|2.0|39
+284371fa-f563-480e-bc1c-bad8605d1d01|SUPERHANDS OÜ|False|['Energy', 'Manufacturing', 'Telecommunication & Services']|SUPERHANDS|435570.13|16.0|2.0|-35
+845a9c25-fd7a-4b8e-b071-9c6d2837b346|WOOLA OÜ|False|['Cleantech', 'E-commerce', 'Manufacturing']|WOOLA|383736.48|16.0|-2.0|44
+77ec791e-06cc-4026-a475-5923bc72acb9|STAR CLOUD OÜ|False|['Manufacturing', 'Software & Services', 'Edtech']|OPIQ|711743.64|15.0|0.0|-8
+a5ebc532-2839-4731-92b8-cd4908cb5ff7|MCF GROUP ESTONIA OÜ|False|['Telecommunication & Services', 'Proptech', 'Data & Analytics']|MCF|706502.50|15.0|-1.0|7
+d9f5ad70-92a2-48a9-a1ea-d6c2ab5b3977|CITYBEE EESTI OÜ|False|['Transportation']|CITYBEE|3253578.07|15.0|-1.0|-16
+17175007-bf07-492e-aece-297ca3c1e32b|BETTER MEDICINE OÜ|False|['Medical Devices', 'Science Tools & Services', 'Healthcare']|BETTER MEDICINE|12594.71|14.0|2.0|538
+0e1d4b4c-0a7c-4c3f-ac07-d5bec1ec8c90|LIGHTCODE PHOTONICS OÜ|False|['Deep tech', 'Hardware & Electronic Equipment', 'Engineering']|LIGHTCODE PHOTONICS|7660.75|13.0|0.0|71
+32cf4697-2492-4c24-8b4b-a2b1403447cb|ARBONICS OÜ|False|['Forestry & Paper', 'Software & Services', 'Cleantech']|ARBONICS|250842.60|13.0|1.0|-4
+d2524c14-cd07-45c3-a2f2-c5c3fc36d2a1|RINGO ECO OÜ|False|['Cleantech', 'Retail', 'Infrastructure & Logistics']|RINGO|52474.22|13.0|0.0|-40
+9712ffd0-9f61-4885-b6a2-f1d98722572b|SENDSMAILY OÜ|False|['Software & Services', 'Telecommunication & Services', 'Data & Analytics']|SMAILY EMAIL MARKETING AND AUTOMATION|448349.68|12.0|0.0|13
+a312f15f-1329-47af-bb09-10cfa5b3a781|CARA HEALTH OÜ|False|['Digital Health', 'E-commerce', 'Healthcare']|CARÁ HEALTH|20276.37|12.0|1.0|18
+122cb03d-0c84-4286-9506-2726c92a3654|EZIIL PRODUCTION INTELLIGENCE OÜ|False|['Software & Services', 'Engineering']|EZIIL PRODUCTION INTELLIGENCE OÜ|143981.90|11.0|0.0|-15
+06efd5fe-6972-4bef-93a4-0eb4b86eeec9|OÜ EYEVI TECHNOLOGIES|False|['Road & Rail', 'Construction', 'Data & Analytics']|EYEVI TECHNOLOGIES|303269.37|10.0|0.0|-35
+a63ad63f-4004-415c-9c41-db08ac286d09|REBELROAM OÜ|False|['Telecommunication & Services', 'Transportation', 'Software & Services']|REBELROAM OÜ|1342616.02|10.0|0.0|8
+1a43a76e-3f45-4962-aaef-c03c246f5d9e|UPSTEAM EESTI OÜ|False|['Software & Services', 'Transportation', 'Automotive']|FLEETFOX|55801.77|9.0|0.0|-128
+3d7c976a-5773-48fb-b705-3d1cacf56793|THINNECT OÜ|False|['Telecommunication & Services', 'Software & Services']|THINNECT|115930.43|9.0|0.0|184
+833ba022-c3bb-4a44-a42b-9fc6625d0dd2|HEPTA GROUP AIRBORNE OÜ|False|['Cleantech', 'Data & Analytics', 'Energy']|HEPTA AIRBORNE (ESTONIA)|275513.81|9.0|2.0|-38
+e0ab8f6d-1400-4686-bf49-2a625ef8891e|MYDELLO OÜ|False|['Road & Rail', 'Aerospace', 'Transportation']|MYDELLO|1903360.49|9.0|-1.0|-3
+214313a4-da2b-4a9e-a3be-bbd7c35a85b3|DRIVEX TECHNOLOGIES OÜ|False|['Automotive', 'Deep tech']|DRIVEX TECHNOLOGIES|123002.90|8.0|0.0|3
+b91afc94-2c51-4acc-94b8-21fe3d657101|BIDRENT OÜ|False|['Software & Services', 'Cleantech', 'Proptech']|BIDRENTO|123317.49|8.0|-2.0|4
+c013b9af-924a-44a9-86f8-4b3f632a1c4f|REVERSE RESOURCES OÜ|False|['Manufacturing', 'Data & Analytics']|REVERSE RESOURCES|463963.97|8.0|2.0|
+c79387a5-8d5a-482f-8fd7-f7f1a8abc8fe|BOTGUARD OÜ|False|['Software & Services', 'Telecommunication & Services']|BOTGUARD|9448518.40|8.0|1.0|372
+e0ca3322-cd49-4e0f-9230-bbbec5cdc4ba|GRIDIO 2.0 OÜ|False|['Energy']|GRIDIO|31074.54|8.0|1.0|48
+0b9ee7dd-eeea-4191-9177-2d1dce2d2361|SPACEIT OÜ|False|['Software & Services', 'Data & Analytics', 'Aerospace']|SPACEIT|326876.38|7.0|0.0|23
+8fe146dd-8fa2-427b-a9bd-ba5464237f67|OÜ REWILD|False|['Data & Analytics', 'Transportation', 'Construction']|REWILD|104764.51|7.0|0.0|17
+994c21db-4ac3-4e94-b6ce-6126dda9fabc|MAGNETIC IP OÜ|False|['Household & Personal Products', 'Energy']|MAGNETIC IP OU|34389.34|7.0|-1.0|212
+d074fc98-3149-4bc5-9884-f372f70da3b5|WAYBILLER OÜ|False|['Transportation', 'Infrastructure & Logistics', 'Software & Services']|WAYBILLER OÜ|127534.94|7.0|0.0|-1
+d8a1c34f-ff58-4bce-85f6-b228d1e8a1f9|AUTLO OÜ|False|['Transportation', 'Fintech']|AUTLO OÜ|182667.57|7.0|1.0|149
+277bcc0b-210f-4ff1-af40-aad83741602f|CLOUD FACTORY OÜ|False|['Creative Industries', 'Textiles, Apparel & Luxury Goods', 'Manufacturing']|CLOUD FACTORY|147960.43|6.0|0.0|147
+2c121324-93c0-44b2-bf34-be04363b9bb8|AUTOBAHN TECHNOLOGIES OÜ|False|['Data & Analytics', 'Software & Services', 'Manufacturing']|AUTOBAHN|266658.50|6.0|1.0|15
+2d9141ff-ddf7-45cd-befc-8ddee6a1cb37|TARKVENT OÜ|False|['Proptech', 'Cleantech', 'Energy']|CALIDITY|111667.42|6.0|-1.0|-33
+7ed41e23-4ade-484e-9ac7-5860057a17fb|SINGLE.EARTH OÜ|False|['Fintech', 'Cleantech']|SINGLE.EARTH||6.0|0.0|
+983bc7f9-5309-4cf6-b975-b1bbef5b4725|ELIKO LOCATION TECHNOLOGIES OÜ|False|['Manufacturing', 'Deep tech', 'Hardware & Electronic Equipment']|ELIKO RTLS|110953.49|6.0|4.0|110
+08c43f4b-8588-461b-ad16-26294a090762|10LINES OÜ|False|['Deep tech', 'Machinery & Electrical', 'Software & Services']|10LINES|13460.26|5.0|-2.0|-84
+9b54bfc1-d16f-420b-a112-92fe8cbf1943|GPO OÜ|False|['Energy', 'Software & Services', 'Consumer Electronics & Appliances']|GPO|9627.20|5.0|0.0|-53
+c88e25e3-990d-470b-9c31-30e33301dcd9|ZEROFY OÜ|False|['Cleantech', 'Energy']|ZEROFY|316581.18|5.0|1.0|-30
+d81ea2d0-8dce-4d2a-b107-9b7125e2d6fd|AS BERCMAN TECHNOLOGIES|False|['Consumer Services', 'Household & Personal Products', 'Manufacturing']|BERCMAN TECHNOLOGIES|76482.54|5.0|0.0|-6
+d93d162f-077f-4c6b-a99a-938fe6414b11|ADOPTOMEDIA OÜ|False|['Software & Services', 'Manufacturing']|ADOPTOMEDIA|42500.00|5.0|0.0|6
+ec7852f7-5296-460e-99c8-7bc60a3cdc52|OÜ SYNBASE|False|['Medical Devices', 'Science Tools & Services', 'Healthcare']|SYNBASE|214615.58|5.0|1.0|22
+f8a05d07-dbab-4abf-972a-6bb396fdae55|SOFTCOMPLY OÜ|False|['Medical Devices', 'Aerospace', 'Healthcare']|SOFTCOMPLY|271389.14|5.0|0.0|21
+ff5568cf-5695-45fa-b809-47e142616636|PROMOTY MARKETING OÜ|False|['Telecommunication & Services']|PROMOTY|47103.17|5.0|0.0|103
+0c360f18-aafb-492f-8337-290702966106|CAREMATE OÜ|False|['Software & Services', 'Healthcare', 'Telecommunication & Services']|CAREMATE|21859.49|4.0|0.0|21
+1263b8f8-4ea0-4984-bb98-e0eb3ac139fb|WAZOMBI LABS OÜ|False|['Consumer Electronics & Appliances']|SOMA SMART HOME|84535.05|4.0|0.0|-6
+82432bbf-2fd9-469c-95fb-ab5c7f9722ba|TRAXBY OÜ|False|['Telecommunication & Services', 'Software & Services']|TRAXBY|55902.73|4.0|0.0|-26
+9e40f08e-6d3a-4a71-95b0-a150845ada24|GELATEX TECHNOLOGIES OÜ|False|['Materials & Chemicals', 'Biotechnology', 'Machinery & Electrical']|GELATEX|103292.36|4.0|-1.0|80
+b286ea7e-bb96-4f79-8943-1f79b58c03a2|LTMED OÜ|False|['Medical Devices', 'Healthcare']|NEURAKINESIS|184769.22|4.0|0.0|-17
+dda02617-54fb-4e2c-8d79-936651c015ed|FLEETGURU OÜ|False|['Data & Analytics', 'Automotive', 'Software & Services']|FLEETGURU|103446.69|4.0|1.0|34
+01347f91-965c-426c-8dbb-bf1dc990076a|VETIK OÜ|False|['Cleantech', 'Agriculture, Aquaculture & Agritech']|VETIK OÜ|3086.98|3.0|0.0|
+0f4f9012-8c20-4e30-9d83-476e150b814b|SMART MASTERKEY OÜ|False|['Cleantech', 'Household & Personal Products', 'Hardware & Electronic Equipment']|BLE LOCKING|20648.90|3.0|-1.0|100
+15f8ec09-a7be-475f-b206-b9c34dcaad4b|CAPTAIN CORROSION OÜ|False|['Manufacturing']|CAPTAIN CORROSION|86500.00|3.0|-2.0|88
+27f9aa21-0b80-444e-a7de-5cc270bf2a72|HOTELBUDDY TECHNOLOGY OÜ|False|['Travel & Hospitality', 'Hardware & Electronic Equipment', 'Software & Services']|HOTELBUDDY|8997.20|3.0|0.0|-87
+66918f32-5292-4cc7-945f-fa49e1569626|SMART LOAD SOLUTIONS OÜ|False|['Energy', 'Cleantech', 'Software & Services']|THEMO|564786.27|3.0|0.0|110
+9df51c38-5e32-4ccd-a3a9-88a86a0e1fe8|ADACT OÜ|False|['Software & Services', 'Telecommunication & Services']|ADACT|102404.70|3.0|0.0|35
+bf1d1625-66a8-4215-9518-4d1419410c2b|GUAVAHR OÜ|False|['Telecommunication & Services']|GUAVAHR|106493.67|3.0|0.0|40
+0834faf8-da8a-40d7-b49a-e94bd05228fb|NORTHWIND ENGINEERING OÜ|False|['Manufacturing', 'Energy']|CHALLENGER SOLUTIONS|12391.86|2.0|0.0|-69
+3801477b-4ae8-4777-80ac-89ea86ee8888|SKUDO OÜ|False|['Manufacturing', 'Aerospace', 'Software & Services']|SKUDO OU|22181.95|2.0|0.0|-74
+5f1e1020-fd2f-4f91-9930-163410f20052|RHOMTRIP OÜ|False|['Transportation', 'Software & Services', 'Travel & Hospitality']|RHOMTRIP|255317.78|2.0|0.0|-26
+72d94e89-b773-43a8-beae-188d4f7ac1b5|FACT INDUSTRIES OÜ|False|['Engineering', 'Manufacturing']|FACT INDUSTRIES|3561.00|2.0|0.0|5470
+7fbfcaf1-e9ee-4aed-be99-fe958e743089|PAUL-TECH OÜ|False|['Software & Services', 'Agriculture, Aquaculture & Agritech']|PAUL-TECH|62165.73|2.0|0.0|-37
+8d235ae1-11a6-444f-be7b-a636d68f1012|NUTRILOOP OÜ|False|['Agriculture, Aquaculture & Agritech', 'Engineering']|NUTRILOOP|4877.60|2.0|0.0|-14
+c2d770cc-7b07-4e65-94dd-23eb53c37300|WAPI OÜ|False|['Transportation', 'Infrastructure & Logistics', 'Software & Services']|WAPI|5032700.20|2.0|0.0|24
+cbba5a5b-bd57-46d2-ad7a-3745d5b4f6d0|TUGE ENERGIA OÜ|False|['Energy', 'Engineering']|TUGE ENERGIA OÜ|187977.30|2.0|0.0|1528
+d7f1b3af-d528-415e-b67a-0459fe423273|HAPPY WORKPLACE OÜ|False|['Wellness', 'Research & Consulting', 'Human Resource & Employment']|HAPPYME|52723.94|2.0|-1.0|15
+ec1cb50f-34b4-43f1-906b-f7f1859795da|FENTRICA OÜ|False|['Data & Analytics', 'Hardware & Electronic Equipment', 'Software & Services']|LARVA.IO|20000.46|2.0|0.0|-36
+111e1ea6-e731-434c-a470-3a2bf0f8f593|CUPLOOP OÜ|False|['Manufacturing', 'Software & Services']|CUPLOOP|25636.77|1.0|-3.0|-80
+1654ad16-a26d-469a-a396-ec9d57207343|PROCUREMENT FLOW OÜ|False|['Construction', 'Software & Services', 'Engineering']|PROCUREMENTFLOW.COM|22545.42|1.0|0.0|65
+1a4d8925-2458-4f3b-a4db-5d719b73c4f8|D58 SERVICES OÜ|False|['Telecommunication & Services', 'Healthcare', 'Media']|SIGNLANG||1.0|0.0|
+1d51f87d-a678-4136-bc2d-053a8a48efdf|FOXIOT OÜ|False|['Software & Services', 'Hardware & Electronic Equipment', 'Consumer Electronics & Appliances']|FOXIOT|29157.80|1.0|0.0|-7
+27a8fd5c-7b47-491c-a536-fa31f8ac1e9f|BUGBOX OÜ|False|['Cleantech', 'Agriculture, Aquaculture & Agritech', 'Software & Services']|BUGBOX LTD|7285.96|1.0|0.0|3081
+2a6833f7-f8bf-48d7-8415-e95b3994d770|TRUMPAUTO OÜ|False|['Consumer Services', 'Automotive', 'Software & Services']|TRUMPAUTO|23138.22|1.0|0.0|-21
+3528f233-2916-4aff-bd85-2ccd8951322e|VAHVA SOLUTIONS OÜ|False|['Healthcare', 'Medical Devices']|I CAN GRAB / VAHVA SOLUTIONS|7519.67|1.0|0.0|84
+394a1006-fd50-492d-9c3b-00026036de9d|OPTIMYSE OÜ|False|['Human Resource & Employment', 'Software & Services', 'Research & Consulting']|OPTIMYSE|122967.13|1.0|-1.0|9
+73d98e9c-f9cc-465b-99ef-d245c7cc7c14|PAGERR OÜ|False|['Forestry & Paper', 'E-commerce', 'Cleantech']|PAGERR|60891.86|1.0|-1.0|-52
+7a9df96e-35c5-4330-a762-31ed64400a79|APARTNE OÜ|False|['Telecommunication & Services', 'Software & Services']|RIDLINE|23630.89|1.0|0.0|281
+ae06b568-00bf-48fb-b606-f485d22d9a86|SWAPSMART OÜ|False|['Consumer Services', 'Transportation', 'Telecommunication & Services']|SMARTSWAP|60530.78|1.0|0.0|163
+bd17fb27-17ae-40f2-92d6-24bdbae0e05b|B2B TRADE OÜ|False|['Transportation']|CITY CARRIER|278194.84|1.0|0.0|102
+c25744ae-d523-4414-a528-9a657a2ef7be|YORSO EUROPE OÜ|False|['Software & Services', 'Agriculture, Aquaculture & Agritech']|YORSO|238047.21|1.0|0.0|74
+f41a769f-460c-4c1f-83e0-b3162557b210|ONDEMAND APPS OÜ|False|['Transportation', 'Software & Services']|ONDE|4140745.57|1.0|0.0|2
+021a4ea1-2b76-4dbd-8b87-31e7119c9edb|CONSCIOUS INITIATIVE OÜ|False|['Edtech', 'Healthcare', 'Manufacturing']|WELLNESS ORBIT (COMPANY NAME: CONSCIOUS INITIATIVE PLC)|2506.80|||712
+09bb6de5-16e5-48fd-9be1-f460170b9bb4|VUUHH OÜ|False|['Software & Services', 'Manufacturing']|VUUHH||||
+1b297b5d-060e-4628-8340-9d164a2463d6|TALLINN2EUROPE ENTERPRISES OÜ|False|['Food, Beverage & Tobacco', 'Engineering', 'Software & Services']|TALLINN2EUROPE ENTERPRISES OÜ||||
+1c2d503a-461c-40e3-b923-df5c85eb3bb5|OPEROSE LABS OÜ|False|['Engineering', 'Software & Services']|OPEROSE LABS OÜ||||
+1eb52d7a-ba1c-45bb-b712-2ce9df4b20dc|GOLBRIAK SPACE OÜ|False|['Telecommunication & Services']|GOLBRIAK SPACE OÜ|56023.45|||5345
+227a517c-3b76-4d3d-9990-f54bc56a7e6f|PRECISION NAVIGATION SYSTEMS OÜ|False|['Infrastructure & Logistics', 'Agriculture, Aquaculture & Agritech', 'Deep tech']|PRECISION NAVIGATION SYSTEMS|18274.34|||44
+2935a691-a61f-4667-853e-98d27f001209|ADDLIX OÜ|False|['Software & Services', 'Telecommunication & Services']|ADDLIX||||
+35750779-7e3a-465a-a08d-09220b4d2c02|ETHR OÜ|False|['Medical Devices']|ETHR|39150.00|||
+3716b4de-90b3-4904-9329-da007dd74441|EASYFY OÜ|False|['Software & Services', 'Manufacturing']|FRANK.AI||||
+4f9bdd4c-6604-4b2f-b4d9-960d8ba70c1d|LAINERGY OÜ|False|['Energy']|LAINERGY OÜ||||
+5780ff26-2ece-48ea-a1f5-e8ca69e2a9a6|REPORTAUTO OÜ|False|['Fintech', 'Transportation']|REPORTAUTO|76380.53|||161
+58b2873f-2561-4c2e-9eae-7ba5a4fa9d2a|NEURISIUM OÜ|False|['Manufacturing', 'Engineering']|NEURISIUM|27836.05|||-60
+590b3d22-c0e0-4a9b-a005-c8caa6ce7114|SAVAS OÜ|False|['Software & Services', 'Telecommunication & Services']|SAVAS CLOUD MARKETPLACE|886.65|||-61
+59f5af1f-4171-45c8-8192-da6f2424abc7|TYMAP OÜ|False|['Consumer Services', 'Retail', 'Transportation']|TYMAP|6915.65|||165
+5b7036e4-a05e-45b9-b23a-b252805ea302|SEANEST OÜ|False|['Engineering']|NOBE CARS|1745.08|||-82
+5d65c170-f33b-4f14-bbb9-64da6693e6ab|TIMETRIX OÜ|False|['Software & Services', 'Hardware & Electronic Equipment', 'Research & Consulting']|TIMETRIX||||
+5dd27996-25dd-412e-83ae-cb530732a41f|SILKYWARE OÜ|False|['Consumer Services', 'Software & Services', 'Manufacturing', 'Telecommunication & Services', 'Household & Personal Products']|SILKYWARE OÜ||||
+5e82e864-e9c2-4d6f-aafb-182e08eb0482|SHAREDTRIP OÜ|False|['Research & Consulting', 'Software & Services', 'Edtech']|INTROWISE||||
+6001be51-3178-4cc8-9f6c-222005a88d0d|FINDMOTORS OÜ|False|['Manufacturing', 'Telecommunication & Services', 'Software & Services']|FINDMOTORS|2954.45|||-67
+65cc3118-a1c2-4705-96be-568acee7e1da|ELMO RENT AS|False|['Energy', 'Data & Analytics', 'Transportation']|SELF-DRIVING ELMO RENT|8717.00|||468
+6d079ef5-cead-4915-8c91-80087e1e5561|SMART SENDER OÜ|False|['Telecommunication & Services']|SMARTSENDER|174220.07|||57
+6e811696-e8dd-4b97-8262-283ec02635fc|VOOREMET OÜ|False|['Agriculture, Aquaculture & Agritech']|VOOREMET||||
+7b68ed28-0da2-486a-9c57-d7a63dcaae38|CHLOE & MATT OÜ|False|['Software & Services', 'Agriculture, Aquaculture & Agritech']|TANIBOX||||
+7f5acc05-2c62-47b9-bed7-6af5af61ded1|MARINA AHOY OÜ|False|['Consumer Electronics & Appliances', 'Software & Services']|MARINA AHOY|2500.00|||131
+7fcabb39-b250-4479-9191-703a45d79800|IOMOB TECHNOLOGIES OÜ|False|['Software & Services', 'Transportation']|IOMOB|153952.31|||100
+87da4302-0293-42fb-b42c-d43890bc3ce2|OVERLAY TECHNOLOGY OÜ|False|['Manufacturing', 'Software & Services', 'Engineering']|VINICIUS MIGUEL||||
+88e17cbc-5132-47f5-9553-10ab40fb005b|CHATCREATE OÜ|False|['Software & Services', 'Retail', 'Telecommunication & Services']|CHATCREATE||||
+8a76fe7c-ad3b-4dda-bea8-ada4090b3fdd|LINK LABS OÜ|False|['Software & Services', 'Consumer Electronics & Appliances', 'Hardware & Electronic Equipment']|LINK LABS|33526.90|||78
+8c306020-07b4-4ebb-b754-d6369692509d|KWAD OÜ|False|['Aerospace', 'E-commerce']|KWAD||||
+910256e4-3905-41f7-be74-9394bd00c280|GLOCALZONE OÜ|False|['Fintech', 'Consumer Services', 'Transportation']|GLOCALZONE||||
+9279c8d0-940f-4f93-a070-04d2b22ae5b0|NAUTE CREATIONS OÜ|False|['Proptech', 'Manufacturing']|SCAUTOR|11444.96|||17
+94284814-d439-44a5-808d-9cb6d41ab8db|MACHINERIC SOLUTIONS OÜ|False|['Transportation', 'Construction', 'Software & Services']|MACHINERIC|37285.87|||41
+94968f85-5acd-4f04-9033-22de8c203c76|VELMIO OÜ|False|['Software & Services', 'Healthcare', 'Medical Devices']|VELMIO||||
+952c3448-51ca-4e59-a354-627dbee9538e|INTEPIA OÜ|False|['Telecommunication & Services', 'Transportation', 'Software & Services']|INTEPIA||||
+9553312d-03ed-4516-88c3-b38b5f56b5d1|TEMPID OÜ|False|['Healthcare', 'Medical Devices']|TEMPID||||
+96a616ba-e1dc-4ecc-94c0-1b7e2e270557|ENLIFE OÜ|False|['Energy', 'Proptech']|ENLIFE|9823.12|||-24
+97ad8650-f2b7-4a4f-b2c4-dbbf5c1b802c|TAXIGO TALLINN OÜ|False|['Transportation', 'Travel & Hospitality', 'Infrastructure & Logistics']|TAXIGO|43546.20|||-6
+9bccf6f3-97f3-4bd9-a271-ca854f04e800|SEO CREW OÜ|False|['Telecommunication & Services', 'Fintech']|FIFI FINANCE||||
+a2a85f2d-36e3-4cdf-a140-9358defe5872|COVISUAL OÜ|False|['Telecommunication & Services']|COVISUAL||||
+a4b2b1bf-4bc5-4a86-a566-4a3174c5c6df|CONNECTED BALTICS OÜ|False|['Telecommunication & Services', 'Data & Analytics']|CONNECTED BALTICS OÜ|5567.23|||46
+a52265e0-00ce-4599-8210-5decab3a5b08|REXWOODS BALTIC OÜ|False|['Engineering']|REXWOOD MOBILE SAWMILL|23046.38|||194
+a784976e-8659-428c-9b32-14f9d2467ea7|WAARDEX OÜ|False|['Marketing', 'Media', 'Telecommunication & Services']|WAARDEX OÜ|656999.18|||-57
+ac9eb7fd-8f1f-4600-8686-9e3dfeac70e7|RECOIL OÜ|False|['Defence', 'Consumer Electronics & Appliances']|RECOIL OÜ||||
+af410ebf-8621-403b-b5fd-91f2ea15c27c|PEACOCK ESTONIA OÜ|False|['Household & Personal Products', 'Cleantech']|PEACOCK||||
+b2fd0f3c-243d-4173-bcb7-d942aa8aa981|NETNIGMA OÜ|False|['Manufacturing', 'Software & Services']|NETNIGMA||||
+be3bddfe-791c-40cb-82df-7b4c1c9afcf4|REALIFIED OÜ|False|['Software & Services', 'Consumer Electronics & Appliances']|REXR||||
+c6429802-e3d8-46c0-8683-dbb27c00e07a|SUNMILL OÜ|False|['Cleantech', 'Fintech', 'Energy']|SUNMILL|177.41|||-100
+cb87ed0e-8390-4d19-9049-c7c247e75d4a|ENDER TURING OÜ|False|['Data & Analytics', 'Software & Services', 'Telecommunication & Services']|ENDER TURING|237235.30|||181
+cbb64c70-88dc-4990-bfc1-2e8fb906715e|FLOWBASE OÜ|False|['Deep tech', 'Software & Services', 'Manufacturing']|FLOWBASE||||
+cf482591-ee55-4ab0-8ff7-2ba67f1bc3e2|UNSINKABLE ROBOTICS OÜ|False|['Deep tech', 'Maritime', 'Hardware & Electronic Equipment']|UNSINKABLE ROBOTICS||||
+d4a73404-bb17-45e2-967f-599ed58b1b72|3D CREATIONIST OÜ|False|['Consumer Electronics & Appliances', 'Edtech']|3DC.IO||||
+d85fc9b1-86d9-4946-939b-1cd41e96be48|MALKARAK OÜ|False|['Wellness', 'Healthcare', 'Digital Health']|UNDO | NATURAL MEDITATION|15474.77|||-53
+dc03d2b4-99f5-4a9a-b8be-847a87206021|NATU HOLDING OÜ|False|['Food, Beverage & Tobacco', 'Agriculture, Aquaculture & Agritech', 'Consumer Electronics & Appliances']|NATUFIA LABS||||
+e1df6209-6409-4d3d-8815-4cd8ce35d806|SCANAURIS OÜ|False|['Wellness', 'Healthcare', 'Manufacturing']|SCANAURIS||||
+e35a1a4b-2746-40aa-85a1-bab8243169bf|LAAVA TECH OÜ|False|['Data & Analytics', 'Agriculture, Aquaculture & Agritech', 'Hardware & Electronic Equipment']|LAAVA TECH||||
+e84b91f1-5e94-4b77-bf69-8fcc99f385c2|DIGITAL SPUTNIK LIGHTING OÜ|False|['Engineering', 'Hardware & Electronic Equipment']|DIGITAL SPUTNIK||||
+ebead604-b3b8-4545-9ab0-e020226ea874|SMART NATURE OÜ|False|['Household & Personal Products', 'Consumer Electronics & Appliances', 'Software & Services']|ETNOBIRD||||
+f020407a-89e7-4a5a-b91f-c8eca62cde31|PARCELSEA OÜ|False|['E-commerce', 'Infrastructure & Logistics', 'Consumer Electronics & Appliances']|PARCELSEA|84894.31|||2
+f038b36b-4c59-44e2-9e44-4eac7e25a832|XENDIZ OÜ|False|['Telecommunication & Services', 'Manufacturing', 'Software & Services']|XENDIZ OÜ||||
+f03c17e1-2413-435a-8c74-d192d0eb6a9f|SONNEFY OÜ|False|['Energy', 'Software & Services', 'Cleantech']|SONNEFY||||
+f62391a4-a9c1-4a6d-83cf-9192487f00ad|CITYNTEL OÜ|False|['Cleantech', 'Software & Services', 'Hardware & Electronic Equipment']|LUMOFLEX||||
+f68871cf-1b8f-4097-af40-c07dcf753056|CRABSEC OÜ|False|['Public services (exl. education)', 'Software & Services', 'Consumer Electronics & Appliances']|CRABSEC|14521.00|||-10
+f8335e0d-30f2-4dd2-b7be-a26ab3a4956a|MASSANGULA BUANE OÜ|False|['Consumer Electronics & Appliances', 'Software & Services']|FESTIVALITY||||
+f94636cc-c014-48cb-a0d5-3b4b056d5fff|TALENTSFUND OÜ|False|['Consumer Services', 'Data & Analytics', 'Manufacturing']|TALENTS.FUND||||
+fb0cfdbb-b64b-4eb6-8ecd-69ed0875fa18|MODERN MOBILITY OÜ|False|['Public services (exl. education)', 'Software & Services', 'Transportation']|MODERN MOBILITY|1090.00|||27
+fb94745f-1f15-408a-b127-8d52518adc5a|FORKLOG GROUP OÜ|False|['Media', 'Research & Consulting', 'Fintech']|FORKLOG GROUP OÜ||||
+fccaf4a5-c866-4e61-8edf-39e3f292cd53|NEW DIGITAL OÜ|False|['Telecommunication & Services', 'Healthcare', 'Software & Services']|GRANDTIME||||
+fe4bfef1-eea1-49e1-93cd-e1c08f3893d8|DIGIFLAK OÜ|False|['Consumer Electronics & Appliances', 'Software & Services']|DIGIFLAK||||
