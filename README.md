@@ -1,4 +1,4 @@
-# 🚀 Esto Job Applicator
+# 🚀 SuperAngel500 Job Applicator
 An automated CLI-based job application assistant built to streamline outreach to companies on the Superangel500 list — specifically targeting Electrical Engineering (EE) and AI/Software Engineering (AISE) roles.
 
 This tool acts as a bridge between your curated lead lists and your inbox, helping you manage your application funnel while automating personalized outreach.
