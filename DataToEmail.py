@@ -136,7 +136,7 @@ def add_application(applications):
     }
     
     # Send email with resume attached
-    sendEmail("leismats@gmail.com", email, info, "MatsLeisResume2026.pdf")
+    sendEmail(email, info, "MatsLeisResume2026.pdf")
 
 def update_status(applications):
     """Update the status of an existing application"""
