@@ -1,4 +1,4 @@
-id|company|is_unicorn|industries|display_name|turnover|employees|employees_change|turnover_change_percentage
+id|company|is_unicorn|industries|display_name|turnover|employees|employees_change|turnover_change_percentage|Applied
 84921b80-2226-49d6-843b-ca800e946f7a|BOLT TECHNOLOGY OÜ|True|['Transportation', 'Food, Beverage & Tobacco', 'Software & Services']|BOLT|405419541.13|1320.0|-9.0|-6
 33743ed2-f486-4593-a7dc-fa6127b5477a|MILREM AS|False|['Agriculture, Aquaculture & Agritech', 'Forestry & Paper', 'Manufacturing']|MILREM ROBOTICS|18840840.96|308.0|12.0|409
 75225477-cad2-4f3c-8050-82b49c85dbfa|STARSHIP TECHNOLOGIES OÜ|False|['Infrastructure & Logistics', 'Deep tech']|STARSHIP TECHNOLOGIES|6071895.30|171.0|7.0|6
