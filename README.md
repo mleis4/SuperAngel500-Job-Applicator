@@ -25,10 +25,13 @@ Helping you tailor messaging before sending outreach.
 ## 📁 Project Structure
 ```
 .
+├── findSuperAngel500Data.py # Extracts Data from 500.superangel.io
+├── csvToDict.py             # Parses superangel500.csv, filters EE/AISE companies
+├── ApplicationStats_*.txt   # Lead data files (Both, EE, AISE)
 ├── main.py                  # Interactive command-line interface
 ├── EmailSender.py           # SMTP logic for sending emails
-├── ApplicationStats_*.txt   # Lead data files (Both, EE, AISE)
 ├── application_status.csv   # Auto-generated application history
+├── email.txt                # Email template used for automated outreach
 └── personalinfo.txt         # Local email credentials (NOT tracked)
 ```
 
