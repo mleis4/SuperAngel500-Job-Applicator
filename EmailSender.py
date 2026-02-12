@@ -14,10 +14,14 @@ info = {
 
 # Create a secure SSL context
 
-def sendEmail(sender, recipient, info, *pdf_paths):
+def sendEmail(recipient, info, *pdf_paths):
     context = ssl.create_default_context()
     smtp_server = "smtp.gmail.com"
     smtp_port = 465
+    with open('personalinfo.txt', 'r') as f:
+        lines = f.readlines()
+        sender = lines[0].strip()
+        password = lines[1].strip()
     
     body = ""
     with open('Email.txt', mode='r', newline='', encoding='utf-8') as file:
@@ -55,7 +59,7 @@ def sendEmail(sender, recipient, info, *pdf_paths):
     
     try:
         with smtplib.SMTP_SSL(smtp_server, smtp_port, context=context) as server:
-            server.login(sender, input("Enter Password: "))
+            server.login(sender, password)
             server.send_message(msg)
         print("Email sent successfully!")
     except Exception as e:

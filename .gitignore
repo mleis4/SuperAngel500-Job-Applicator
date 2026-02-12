@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+application_status.csv
+superangel500.csv
+personalinfo.txt
+ApplicationStats_Both.txt
+ApplicationStats_EE.txt
+ApplicationStats_AISE.txt
+Email.txt
+MatsLeisResume2026.pdf
