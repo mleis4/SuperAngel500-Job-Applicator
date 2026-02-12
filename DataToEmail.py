@@ -1,6 +1,6 @@
 import csv
 import os
-
+from EmailSender import sendEmail
 # File to store application statuses
 STATUS_FILE = 'application_status.csv'
 
@@ -129,7 +129,14 @@ def add_application(applications):
     
     save_applications(applications)
     print(f"\n✅ Added {job['display_name']} to tracker!")
-    print("📨 TODO: Generate and send email using your email function")
+    info = {
+        'display_name': job['display_name'],
+        'industries': job['industries'].strip("[]'").replace("'", "").split(", "),  # convert string to list
+        'turnover_change_percentage': job['turnover_change_percentage']
+    }
+    
+    # Send email with resume attached
+    sendEmail("leismats@gmail.com", email, info, "MatsLeisResume2026.pdf")
 
 def update_status(applications):
     """Update the status of an existing application"""

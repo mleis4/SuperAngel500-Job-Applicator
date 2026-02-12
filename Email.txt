@@ -2,9 +2,9 @@ Good Afternoon,
 
 My name is Mats Leis, and I am a second-year Electrical and AI Systems Engineering student at Western University in Canada, with a GPA of 3.48/4.00. I was encouraged to reach out by Veljo Otsason, a relative of mine, who spoke highly of the work being done at [Company Name].
 
-I am writing to inquire about potential co-op opportunities for the upcoming summer of 2026. My background spans PCB design, embedded systems, FPGA programming, and CAD, and I have hands-on experience designing safety-critical hardware in a competitive engineering environment. Most recently, I led the design of a custom STM32 driver control PCB for Western University's solar car team, where I was responsible for CAN communication, power architecture, and a four-layer PCB stackup.
+I am writing to inquire about potential co-op opportunities in Tallinn for the upcoming summer of 2026. My background spans PCB design, embedded systems, FPGA programming, and CAD, and I have hands-on experience designing safety-critical hardware in a competitive engineering environment. Most recently, I led the design of a custom STM32 driver control PCB for Western University's solar car team, where I was responsible for CAN communication, power architecture, and a four-layer PCB stackup.
 
-I am particularly drawn to [Company Name] due to your work in [Industry]. I was also impressed to see your [Turnover Change %]% quarter-over-quarter growth, which speaks to the momentum and opportunity within the company. I believe my technical foundation in both electrical engineering and AI systems would allow me to contribute meaningfully from day one.
+I am particularly drawn to [Company Name] due to your work in [Industry].[Turnover Change %]I believe my technical foundation in both electrical engineering and AI systems would allow me to contribute meaningfully from day one.
 
 I have attached my resume for your consideration. I would welcome the opportunity to discuss how I might be a good fit for your team.
 

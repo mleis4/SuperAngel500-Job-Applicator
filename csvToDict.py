@@ -109,7 +109,7 @@ with open('ApplicationStats_Both.txt', 'w', encoding='utf-8') as f:
     keys = list(both_jobs[0].keys())
     f.write("|".join(keys) + "|Applied\n")
     for job in both_jobs:
-        f.write("|".join(str(job[k]) for k in keys) + "\n")
+        f.write("|".join(str(job[k]) for k in keys) + "|False\n")
 
 # Write EE-only
 with open('ApplicationStats_EE.txt', 'w', encoding='utf-8') as f:
