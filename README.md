@@ -37,8 +37,6 @@ Helping you tailor messaging before sending outreach.
 
 ## Configuration
 The script requires a local file named personalinfo.txt for email authentication.
-**Do NOT upload this file to GitHub.** 
-Add it to your .gitignore.
 Create personalinfo.txt in the root directory with:
 ```
 your_email@example.com
