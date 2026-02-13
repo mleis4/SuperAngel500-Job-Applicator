@@ -77,7 +77,12 @@ python main.py
 
 ## Status Tracking
 The system manages your funnel through four stages:
-StatusDescriptionAppliedInitial outreach completedInterviewCallback receivedRejectedApplication closedAcceptedOffer received
+```
+  Applied| Initial outreach completed. 
+Interview| Callback received. 
+ Rejected| Application closed. 
+ Accepted| Offer received.
+```
 
 ## Purpose
 Designed to automate the hustle — so you can focus on preparation, networking, and interviews instead of repetitive admin work.
