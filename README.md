@@ -37,8 +37,6 @@ Helping you tailor messaging before sending outreach.
 
 ## Configuration
 The script requires a local file named personalinfo.txt for email authentication.
-**Do NOT upload this file to GitHub.** 
-Add it to your .gitignore.
 Create personalinfo.txt in the root directory with:
 ```
 your_email@example.com
@@ -79,7 +77,12 @@ python main.py
 
 ## Status Tracking
 The system manages your funnel through four stages:
-StatusDescriptionAppliedInitial outreach completedInterviewCallback receivedRejectedApplication closedAcceptedOffer received
+```
+  Applied| Initial outreach completed. 
+Interview| Callback received. 
+ Rejected| Application closed. 
+ Accepted| Offer received.
+```
 
 ## Purpose
 Designed to automate the hustle — so you can focus on preparation, networking, and interviews instead of repetitive admin work.
