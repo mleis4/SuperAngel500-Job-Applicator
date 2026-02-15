@@ -3,15 +3,6 @@ import smtplib
 import ssl
 from email.message import EmailMessage
 
-info = {
-    'display_name': 'Veriff',
-    'industries': ['Fintech', 'Software & Services'],
-    'is_unicorn': 'False',
-    'employees': '324',
-    'turnover': '24191850.79',
-    'turnover_change_percentage': '40',
-}
-
 # Create a secure SSL context
 
 def sendEmail(recipient, info, *pdf_paths):
@@ -31,9 +22,9 @@ def sendEmail(recipient, info, *pdf_paths):
     body = body.replace("[Company Name]", info['display_name'].lower().capitalize())
     
     if len(info['industries']) > 1:
-        temp = "the " + ", ".join(info['industries'][:-1]) + f" and {info['industries'][-1]}"
+        temp = "the " + ", ".join(info['industries'][:-1]) + f" and {info['industries'][-1]} industries"
     else:
-        temp = "the " + info['industries'][0]
+        temp = "the " + info['industries'][0] + "industry"
     
     body = body.replace("[Industry]", temp)
     

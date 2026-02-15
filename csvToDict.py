@@ -96,21 +96,23 @@ for company in company_info:
     for key in keys_to_remove:
         company.pop(key, None)
 
-aise_jobs = list(filter(lambda c: in_list(core_aise, c['industries']), company_info))
-ee_jobs = list(filter(lambda c: in_list(core_ee, c['industries']), company_info))
+
 both_jobs = list(filter(lambda c: in_list(core_aise, c['industries']) and in_list(core_ee, c['industries']), company_info))
+aise_jobs = list(filter(lambda c: in_list(core_aise, c['industries']) and not in_list(core_ee, c['industries']), company_info))
+ee_jobs = list(filter(lambda c: in_list(core_ee, c['industries']) and not in_list(core_aise, c['industries']), company_info))
 print(f"EE jobs: {len(ee_jobs)}")
 print(f"AISE jobs: {len(aise_jobs)}")
 employees = [j['employees'] for j in both_jobs]
 print(f"Total jobs: {(len(both_jobs))}")
 
 # Write overlap (highest priority)
+'''
 with open('ApplicationStats_Both.txt', 'w', encoding='utf-8') as f:
     keys = list(both_jobs[0].keys())
     f.write("|".join(keys) + "|Applied\n")
     for job in both_jobs:
         f.write("|".join(str(job[k]) for k in keys) + "|False\n")
-
+'''
 # Write EE-only
 with open('ApplicationStats_EE.txt', 'w', encoding='utf-8') as f:
     keys = list(ee_jobs[0].keys())

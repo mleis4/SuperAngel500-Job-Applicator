@@ -83,4 +83,4 @@ StatusDescriptionAppliedInitial outreach completedInterviewCallback receivedReje
 
 ## Purpose
 Designed to automate the hustle — so you can focus on preparation, networking, and interviews instead of repetitive admin work.
-Good luck with the applications. 🚀
+Good luck with the applications. 
