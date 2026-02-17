@@ -1,11 +1,13 @@
 __pycache__/
 *.pyc
 .vscode/
+merge_files.py
 application_status.csv
 superangel500.csv
 personalinfo.txt
 ApplicationStats_Both.txt
 ApplicationStats_EE.txt
 ApplicationStats_AISE.txt
+ApplicationStats_All.txt
 Email.txt
 MatsLeisResume2026.pdf

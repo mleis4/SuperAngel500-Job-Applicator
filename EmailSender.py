@@ -28,7 +28,7 @@ def sendEmail(recipient, info, *pdf_paths):
     
     body = body.replace("[Industry]", temp)
     
-    if float(info['turnover_change_percentage']) > 20:
+    if info['turnover_change_percentage'] != ''and float(info['turnover_change_percentage']) > 20:
         body = body.replace("[Turnover Change %]", 
             f" I was also impressed to see your {info['turnover_change_percentage']}% quarter-over-quarter growth, which speaks to the momentum and opportunity within the company.")
     else:

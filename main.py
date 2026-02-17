@@ -5,9 +5,8 @@ from EmailSender import sendEmail
 STATUS_FILE = 'application_status.csv'
 
 # Job list files
-BOTH_JOBS_FILE = 'ApplicationStats_Both.txt'
-EE_JOBS_FILE = 'ApplicationStats_EE.txt'
-AISE_JOBS_FILE = 'ApplicationStats_AISE.txt'
+BOTH_JOBS_FILE = 'ApplicationStats_All.txt'
+
 
 
 
@@ -79,9 +78,7 @@ def get_next_unapplied_job(applications):
     """Get the next company that hasn't been applied to yet"""
     # Priority: Both > EE > AISE
     job_files = [
-        (BOTH_JOBS_FILE, "Both EE & AISE"),
-        (EE_JOBS_FILE, "EE"),
-        (AISE_JOBS_FILE, "AISE")
+        (BOTH_JOBS_FILE, "Both EE & AISE")
     ]
     
     for filename, category in job_files:
@@ -213,9 +210,7 @@ def view_stats(applications):
     print(f"  Accepted: {stats['Accepted']}")
     
     # Show remaining jobs
-    total_jobs = (len(load_job_list(BOTH_JOBS_FILE)) + 
-                  len(load_job_list(EE_JOBS_FILE)) + 
-                  len(load_job_list(AISE_JOBS_FILE)))
+    total_jobs = (len(load_job_list(BOTH_JOBS_FILE)))
     remaining = total_jobs - len(applications)
     print(f"\n📊 Remaining jobs: {remaining}/{total_jobs}")
 
